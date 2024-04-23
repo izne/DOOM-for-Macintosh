@@ -15,5 +15,5 @@ You can find discussions and more information at [the 68kMLA forum](https://68km
 
 ## Progress
 - [x] Compilation with CodeWarrior 7
-- [ ] Hashtable fix (esselfortium/killough98)
+- [x] Hashtable fix killough 98 (esselfortium)
 - [ ] Timedemo mode (zigzagjoe)
