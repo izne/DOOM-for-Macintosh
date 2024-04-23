@@ -10,7 +10,7 @@ The [68K Macintosh community](https://68kmla.org/) is now thrilled to bring perf
 ## About this repo
 This repository is a fork of the [original Macintosh sourcecode](https://github.com/fluddsskark/DOOM-Mac-src) repo and is a place to coordinate improvements for it.
 
-## 68kmla follow-up
+## Follow-up
 You can find discussions and more information at [the 68kMLA forum](https://68kmla.org/bb/index.php?threads/porting-linuxdoom-to-system-7-or-trying-to-progress-and-questions.45272/)
 
 ## Progress
