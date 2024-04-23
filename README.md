@@ -12,7 +12,5 @@ This repository is a fork of the [original Macintosh sourcecode](https://github.
 
 ## Progress
 - [x] Compilation with CodeWarrior 7
-- [ ] Hashtable fix by killough 1998
-- [ ] Single and Network ticks improvement
-- [ ] Timedemo mode
-- [ ] FPS counter
+- [ ] Hashtable fix (esselfortium/killough98)
+- [ ] Timedemo mode (zigzagjoe)
