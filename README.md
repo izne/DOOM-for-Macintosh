@@ -7,6 +7,9 @@ In November 2023, on an eBay auction, a CD containing the source code of the cla
 Shortly after, an ISO image of that CD was [uploaded to archive.org](https://archive.org/details/doom-mac-source).
 The [68K Macintosh community](https://68kmla.org/) is now thrilled to bring performance updates to the original code.
 
+## Leaked source CD
+More info at this [Doomworld Forum](https://www.doomworld.com/forum/topic/139867-is-this-macpc-doom-source-code-on-ebay-legit/) thread.
+
 ## About this repo
 This repository is a fork of the [original Macintosh sourcecode](https://github.com/fluddsskark/DOOM-Mac-src) repo and is a place to coordinate improvements for it.
 
